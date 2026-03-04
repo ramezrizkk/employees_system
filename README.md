@@ -67,4 +67,6 @@ Employee           → Data model representing individual employee entities
 - Department/role categorization
 - Data export functionality
 
+---
+
 Built with Python 🐍 | Clean code meets practical functionality
