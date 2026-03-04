@@ -1,4 +1,4 @@
-# 👨‍💼 Python Employee Management System
+# 👨‍💼 Python Employees Management System
 
 A clean, console-based employee management application built with Python, demonstrating object-oriented design principles, input validation, and clean architecture with separation of concerns.
 
